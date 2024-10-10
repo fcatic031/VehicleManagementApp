@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\service\\ivehiclemodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\service\\ivehiclemodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\service\\ivehiclemakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\service\\ivehiclemakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "VehicleManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\appsettings.json",
-              "RelativeToolTip": "VehicleManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T18:29:28.645Z",
+              "DocumentIndex": 0,
+              "Title": "IVehicleModelService.cs",
+              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\IVehicleModelService.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Service\\IVehicleModelService.cs",
+              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\IVehicleModelService.cs",
+              "RelativeToolTip": "VehicleManagement\\Service\\IVehicleModelService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:26:06.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "VehicleManagement\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\appsettings.Development.json",
-              "RelativeToolTip": "VehicleManagement\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T18:29:20.161Z",
+              "DocumentIndex": 1,
+              "Title": "IVehicleMakeService.cs",
+              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\IVehicleMakeService.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Service\\IVehicleMakeService.cs",
+              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\IVehicleMakeService.cs",
+              "RelativeToolTip": "VehicleManagement\\Service\\IVehicleMakeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:25:45.025Z",
               "EditorCaption": ""
             }
           ]
