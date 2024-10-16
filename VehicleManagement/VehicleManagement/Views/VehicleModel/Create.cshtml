@@ -1,0 +1,40 @@
+﻿@model VehicleManagement.Models.VehicleModel
+
+@{
+    ViewData["Title"] = "Create Vehicle Model";
+}
+
+<h2>Create new Vehicle Model</h2>
+
+
+<form>
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Abrv" class="control-label">Abrv</label>
+        <input asp-for="Abrv" class="form-control" />
+        <span asp-validation-for="Abrv" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="VehicleMakeId" class="control-label">Vehicle Make</label>
+        <select asp-for="VehicleMakeId" class="form-control">
+            <option value="">-- Select Make --</option>
+            @foreach (var make in ViewBag.VehicleMakes)
+            {
+                <option value="@make.Id">@make.Name</option>
+            }
+        </select>
+        <span asp-validation-for="VehicleMakeId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

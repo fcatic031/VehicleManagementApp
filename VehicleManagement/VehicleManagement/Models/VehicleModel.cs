@@ -1,5 +1,8 @@
-﻿namespace VehicleManagement.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace VehicleManagement.Models
 {
+    [Table("VehicleModel")]
     public class VehicleModel
     {
         public int Id { get; set; }

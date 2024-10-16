@@ -34,6 +34,38 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleMake/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1ha2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleMake/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1ha2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleMake/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1ha2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleMake/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1ha2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleModel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1vZGVsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleModel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1vZGVsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleModel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1vZGVsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/VehicleModel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZU1vZGVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FILIP/OneDrive/Documents/GitHub/VehicleManagementApp/VehicleManagement/VehicleManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

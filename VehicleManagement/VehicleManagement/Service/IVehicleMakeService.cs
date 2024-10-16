@@ -4,7 +4,7 @@ namespace VehicleManagement.Service
 {
     public interface IVehicleMakeService
     {
-        Task<List<VehicleMake>> GetAllVehicleMakesAsync();
+        Task<IQueryable<VehicleMake>> GetAllVehicleMakesAsync();
         Task<VehicleMake> GetVehicleMakeByIdAsync(int id);
         Task AddVehicleMakeAsync(VehicleMake vehicleMake);
         Task UpdateVehicleMakeAsync(VehicleMake vehicleMake);

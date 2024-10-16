@@ -15,6 +15,9 @@ namespace VehicleManagement.Data
         {
             base.OnModelCreating(modelBuilder);
 
+            modelBuilder.Entity<VehicleMake>().ToTable("VehicleMake");
+            modelBuilder.Entity<VehicleModel>().ToTable("VehicleModel");
+
             modelBuilder.Entity<VehicleModel>()
         .HasOne(vm => vm.VehicleMake)
         .WithMany(v => v.VehicleModels)

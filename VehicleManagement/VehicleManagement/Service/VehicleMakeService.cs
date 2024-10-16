@@ -27,9 +27,9 @@ namespace VehicleManagement.Service
             }
         }
 
-        public async Task<List<VehicleMake>> GetAllVehicleMakesAsync()
+        public async Task<IQueryable<VehicleMake>> GetAllVehicleMakesAsync()
         {
-            return await _db.VehicleMakes.ToListAsync();
+            return  _db.VehicleMakes.AsNoTracking();
         }
 
         public async Task<VehicleMake> GetVehicleMakeByIdAsync(int id)

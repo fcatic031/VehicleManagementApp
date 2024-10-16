@@ -1,0 +1,50 @@
+﻿@model IEnumerable<VehicleManagement.Models.VehicleModel>
+
+@{
+    ViewData["Title"] = "Vehicle Models";
+}
+
+<h2>Vehicle Models</h2>
+
+<p>
+    <a asp-action="Create">Create new Vehicle Model</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("Name", "Index", new { sortOrder = ViewData["NameSortPara"] })
+            </th>
+            <th>
+                Abrv
+            </th>
+            <th>
+                Vehicle Make
+            </th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.Abrv)
+                </td>
+                <td>
+                        @Html.DisplayFor(modelItem => item.VehicleMake.Name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id=@item.Id>Edit</a>
+                    <a asp-action="Delete" asp-route-id=@item.Id>Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>
