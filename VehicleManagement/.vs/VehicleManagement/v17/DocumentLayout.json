@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\views\\vehiclemake\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\views\\vehiclemake\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\controllers\\vehiclemodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\controllers\\vehiclemodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\controllers\\vehiclemakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\controllers\\vehiclemakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\views\\vehiclemodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\views\\vehiclemodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\util\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\util\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\service\\vehiclemakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\service\\vehiclemakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\service\\ivehiclemakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\service\\ivehiclemakeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|c:\\users\\filip\\onedrive\\documents\\github\\vehiclemanagementapp\\vehiclemanagement\\vehiclemanagement\\views\\vehiclemodel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56529C86-C19E-43A4-8E0E-1590065C49B5}|VehicleManagement\\VehicleManagement.csproj|solutionrelative:vehiclemanagement\\views\\vehiclemodel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IVehicleMakeService.cs",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\IVehicleMakeService.cs",
-              "RelativeDocumentMoniker": "VehicleManagement\\Service\\IVehicleMakeService.cs",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\IVehicleMakeService.cs",
-              "RelativeToolTip": "VehicleManagement\\Service\\IVehicleMakeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:35:01.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VehicleMakeService.cs",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\VehicleMakeService.cs",
-              "RelativeDocumentMoniker": "VehicleManagement\\Service\\VehicleMakeService.cs",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Service\\VehicleMakeService.cs",
-              "RelativeToolTip": "VehicleManagement\\Service\\VehicleMakeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:21:18.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\VehicleMake\\Index.cshtml",
-              "RelativeDocumentMoniker": "VehicleManagement\\Views\\VehicleMake\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\VehicleMake\\Index.cshtml",
-              "RelativeToolTip": "VehicleManagement\\Views\\VehicleMake\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T21:06:26.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PaginatedList.cs",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Util\\PaginatedList.cs",
-              "RelativeDocumentMoniker": "VehicleManagement\\Util\\PaginatedList.cs",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Util\\PaginatedList.cs",
-              "RelativeToolTip": "VehicleManagement\\Util\\PaginatedList.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T21:00:30.199Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VehicleManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VehicleManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T23:35:57.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VehicleMakeController.cs",
-              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Controllers\\VehicleMakeController.cs",
-              "RelativeDocumentMoniker": "VehicleManagement\\Controllers\\VehicleMakeController.cs",
-              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Controllers\\VehicleMakeController.cs",
-              "RelativeToolTip": "VehicleManagement\\Controllers\\VehicleMakeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAAcAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\VehicleModel\\Create.cshtml",
+              "RelativeDocumentMoniker": "VehicleManagement\\Views\\VehicleModel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\VehicleModel\\Create.cshtml",
+              "RelativeToolTip": "VehicleManagement\\Views\\VehicleModel\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T22:49:46.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\VehicleModel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VehicleManagement\\Views\\VehicleModel\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Views\\VehicleModel\\Edit.cshtml",
+              "RelativeToolTip": "VehicleManagement\\Views\\VehicleModel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T22:38:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleModelController.cs",
+              "DocumentMoniker": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Controllers\\VehicleModelController.cs",
+              "RelativeDocumentMoniker": "VehicleManagement\\Controllers\\VehicleModelController.cs",
+              "ToolTip": "C:\\Users\\FILIP\\OneDrive\\Documents\\GitHub\\VehicleManagementApp\\VehicleManagement\\VehicleManagement\\Controllers\\VehicleModelController.cs",
+              "RelativeToolTip": "VehicleManagement\\Controllers\\VehicleModelController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:49:35.332Z",
+              "WhenOpened": "2024-10-16T22:15:35.829Z",
               "EditorCaption": ""
             }
           ]
